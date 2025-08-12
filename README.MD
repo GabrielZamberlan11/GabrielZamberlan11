@@ -30,7 +30,7 @@
 ## 🧠 Conhecimentos:
 * Conhecimento sobre python e suas bibliotecas.
 
-![imagem indisponivel](https://www.cms.dtidigital.com.br/wp-content/uploads/2021/03/Graficos-em-python-1.png)
+![imagem indisponivel](https://www.h2kinfosys.com/blog/wp-content/uploads/2024/10/Python-01_2_1.png)
 
 
 * Realização das materias de Sistemas Operacionais, Levantamento de requisitos, Logica de Programação, Arquitetura de Redes com IOT no senai.
@@ -38,7 +38,7 @@
 ![imagem indisponivel](https://cursophd.com.br/wp-content/uploads/2020/09/SENAI-LOGO.png)
 * Pratica com computação em nuvem pela AWS e aprendendo sobre os conceitos da Azure.
 
-![imagem indisponivel](https://www.eduvatech.com/wp-content/uploads/2023/04/Microsoft-Azure.png)
+![imagem indisponivel](https://www.northware.mx/wp-content/uploads/2022/09/northware-microsoft-azure-logo.png)
 * Participando do processo da SpSkills na area de computação em nuvem.
 
 ![imagem indisponivel](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST8X5mHA0SZYSQXwjyPP-T5GlWcFzRDyMFFQ&s)
