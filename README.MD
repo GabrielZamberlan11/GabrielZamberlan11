@@ -32,19 +32,20 @@
 ## 🧠 Conhecimentos:
 * Conhecimento sobre python e suas bibliotecas.
 
-![imagem indisponivel](https://www.h2kinfosys.com/blog/wp-content/uploads/2024/10/Python-01_2_1.png)
+<img src="https://www.h2kinfosys.com/blog/wp-content/uploads/2024/10/Python-01_2_1.png" alt="img indisponivel" width="300"/>
 
 
 * Realização das materias de Sistemas Operacionais, Levantamento de requisitos, Logica de Programação, Arquitetura de Redes com IOT no senai.
 
-![imagem indisponivel](https://cursophd.com.br/wp-content/uploads/2020/09/SENAI-LOGO.png)
+<img src="https://cursophd.com.br/wp-content/uploads/2020/09/SENAI-LOGO.png" alt="img indisponivel" width="150"/>
+
 * Pratica com computação em nuvem pela AWS e aprendendo sobre os conceitos da Azure.
 
-<img src="https://www.northware.mx/wp-content/uploads/2022/09/northware-microsoft-azure-logo.png" alt="certificado" width="200"/>
+<img src="https://www.northware.mx/wp-content/uploads/2022/09/northware-microsoft-azure-logo.png" alt="img indisponivel" width="150"/>
 
 * Participando do processo da SpSkills na area de computação em nuvem.
 
-![imagem indisponivel](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST8X5mHA0SZYSQXwjyPP-T5GlWcFzRDyMFFQ&s)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST8X5mHA0SZYSQXwjyPP-T5GlWcFzRDyMFFQ&s" alt="img indisponivel" width="200"/>
 
 
 ## 💪 Pontos Fortes:
