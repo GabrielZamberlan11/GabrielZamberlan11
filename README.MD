@@ -23,10 +23,12 @@
 
 
 ## 🧑‍🎓 Certificados:
-* ![Imagem indisponivel](https://images.credly.com/images/2f7b0627-48a0-4894-8d46-3245bdfe0463/image.png)
+* <img src="https://images.credly.com/images/2f7b0627-48a0-4894-8d46-3245bdfe0463/image.png" alt="certificado" width="300"/>   
 
- ![Imagem indisponivel](https://images.credly.com/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)
+* <img src="https://images.credly.com/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" alt="certificado" width="300"/> 
+
 * Certificação no curso de fundamentos em python da Cisco
+
 ## 🧠 Conhecimentos:
 * Conhecimento sobre python e suas bibliotecas.
 
@@ -38,7 +40,8 @@
 ![imagem indisponivel](https://cursophd.com.br/wp-content/uploads/2020/09/SENAI-LOGO.png)
 * Pratica com computação em nuvem pela AWS e aprendendo sobre os conceitos da Azure.
 
-![imagem indisponivel](https://www.northware.mx/wp-content/uploads/2022/09/northware-microsoft-azure-logo.png)
+<img src="https://www.northware.mx/wp-content/uploads/2022/09/northware-microsoft-azure-logo.png" alt="certificado" width="200"/>
+
 * Participando do processo da SpSkills na area de computação em nuvem.
 
 ![imagem indisponivel](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST8X5mHA0SZYSQXwjyPP-T5GlWcFzRDyMFFQ&s)
