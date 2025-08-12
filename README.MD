@@ -71,7 +71,8 @@
 * Ficar fluente em inglês
 
 ## 🕹 Hobbies
-* Fazer automações tecnologicas em jogos diversos
+* Fazer automações tecnologicas em jogos diversos<img src="https://i.pinimg.com/originals/64/45/ee/6445ee2274a782a7c528303e9bd823d7.gif" alt="img indisponivel" width="200" style="float: right; margin-right: 10px" />
 * Assistir filmes e series
 * Fazer academia
-* Escutar diversas músicas
+* Escutar diversas músicas 
+
