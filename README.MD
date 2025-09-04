@@ -5,7 +5,7 @@
 
 * Idade: 16 anos 
 
-* Cidade: Pindamonhangaba,SP
+* Cidade: Presidente Prudente,SP
 
 * Email: gabrielzinho123@qualquerum.com
 
