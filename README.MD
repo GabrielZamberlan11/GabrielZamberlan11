@@ -29,6 +29,10 @@
 
 * Certificação no curso de fundamentos em python da Cisco
 
+* Certificado_FLUÊNCIA - FUNDAMENTOS DA INTELIGÊNCIA ARTIFICIA
+
+* Certificado_Ética na Inteligência Artificia
+
 ## 🧠 Conhecimentos:
 * Conhecimento sobre python e suas bibliotecas.
 
