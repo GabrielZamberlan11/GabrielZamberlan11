@@ -14,7 +14,7 @@
 * GitHub: github.com/GabrielZamberlan11
 
 ## 🎖 Objetivo:
-* atuar como um profissional na área de TI, como principal objetivo tenho em mente a area de programador.
+* Atuar como um profissional na área de TI, como principal objetivo tenho em mente a area de programador.
 
 ## 🗣 Línguas:
 * Português: Nativo
