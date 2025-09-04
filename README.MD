@@ -7,7 +7,7 @@
 
 * Cidade: Presidente Prudente,SP
 
-* Email: gabrielzinho123@qualquerum.com
+* Email: gabriel.zamberlan@aluno.senai.br
 
 * CPF: 756.231.456-78
 
