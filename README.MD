@@ -86,4 +86,4 @@
 </a>
 <a href="Educaverse.pdf">
 <img src="img1.jpg" alt="img indisponivel" width="200"/>
-</a>
+</a> 
