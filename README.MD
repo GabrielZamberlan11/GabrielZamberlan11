@@ -80,11 +80,10 @@
 * Fazer academia
 * Escutar diversas músicas 
 
-
+## 🖥Wireframes
 <a href="Rota Certa Logistica.pdf">
-<img src="img1.jpg" alt="img indisponivel" width="200"/>
-</a>
-
-<a href="Educaverse.pdf">
 <img src="img2.jpg" alt="img indisponivel" width="200"/>
+</a>
+<a href="Educaverse.pdf">
+<img src="img1.jpg" alt="img indisponivel" width="200"/>
 </a>
