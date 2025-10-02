@@ -23,7 +23,7 @@
 
 
 ## 🧑‍🎓 Certificados:
-* <img src="https://images.credly.com/images/2f7b0627-48a0-4894-8d46-3245bdfe0463/image.png" alt="certificado" width="300"/>   
+* <img src="https://images.credly.com/size/110x110/images/fcafd0c9-42da-4703-a191-0c397203dc1b/blob" alt="certificado" width="300"/>   
 
 * <img src="https://images.credly.com/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" alt="certificado" width="300"/> 
 
