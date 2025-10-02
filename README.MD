@@ -81,8 +81,10 @@
 * Escutar diversas músicas 
 
 
-<a href="/Rota Certa Logistica.pdf">
-<img src="/crie uma logo de uma empresa chamada educaverse que se basea na area da educaçãio ocm o metaverso, utilizando as cores Roxo_$673AB7,Roxo claro_#D1C4E9, Branco#FFFFFF.jpg" alt="img indisponivel" width="200"/>
+<a href="Rota Certa Logistica.pdf">
+<img src="img1.jpg" alt="img indisponivel" width="200"/>
 </a>
 
-![Telas Rota Certa Logistica](/Rota%20Certa%20Logistica.pdf)
+<a href="Educaverse.pdf">
+<img src="img2.jpg" alt="img indisponivel" width="200"/>
+</a>
