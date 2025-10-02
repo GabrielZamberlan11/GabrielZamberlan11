@@ -80,3 +80,6 @@
 * Fazer academia
 * Escutar diversas músicas 
 
+
+
+![Telas Educaverse](/Educaverse.pdf)
