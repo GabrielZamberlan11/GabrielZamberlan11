@@ -25,7 +25,7 @@
 ## 🧑‍🎓 Certificados:
 * <img src="https://images.credly.com/images/fcafd0c9-42da-4703-a191-0c397203dc1b/blob" alt="certificado" width="300"/>   
 
-* <img src="https://images.credly.com/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" alt="certificado" width="300"/> 
+* <img src="https://images.credly.com/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" alt="certificado" width="300"/> 
 
 * Certificação no curso de fundamentos em python da Cisco
 
